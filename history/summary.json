@@ -4,17 +4,19 @@
     "url": "https://www.gruppa.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gruppa.com.br.ico",
     "slug": "gruppa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 164,
-    "timeWeek": 252,
-    "timeMonth": 266,
-    "timeYear": 282,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "83.82%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.96%",
+    "time": 279,
+    "timeDay": 1095,
+    "timeWeek": 474,
+    "timeMonth": 321,
+    "timeYear": 287,
+    "dailyMinutesDown": {
+      "2026-09-15": 233
+    }
   }
 ]
