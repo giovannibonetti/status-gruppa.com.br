@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gruppa.com.br.ico",
     "slug": "gruppa",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 747,
-    "timeDay": 2159,
-    "timeWeek": 4390,
-    "timeMonth": 5582,
-    "timeYear": 923,
+    "time": 756,
+    "timeDay": 4913,
+    "timeWeek": 4607,
+    "timeMonth": 5618,
+    "timeYear": 936,
     "dailyMinutesDown": {
       "2026-09-15": 233
     }
